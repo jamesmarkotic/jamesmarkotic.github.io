@@ -1,5 +1,35 @@
-h1 {
+.header {
 	text-align: center;
 	background: teal;
 	color: white;
+	position: relative;
+	top: 0;
+	left: 0;
+	right: 0;
+	margin-top: 0;
+
+}
+
+.content {
+	position: relative;
+	height: 800px;
+}
+
+.main-section {
+	position: absolute;
+	height: auto;
+}
+
+.footer {
+
+	position: relative;
+	background: grey;
+	text-align: center;
+	bottom: 0;
+
+
+}
+
+body {
+	margin: 0;
 }
