@@ -1,1 +1,0 @@
-# jamesmarkotic.github.io
