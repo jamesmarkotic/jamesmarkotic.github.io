@@ -1,0 +1,259 @@
+.header {
+	background-color: white;
+	top: 0;
+	left: 0;
+	right: 0;
+	height: 80px;
+	width: 100%;
+	position: relative;
+	border-bottom: 2px solid #cccccc;
+}
+
+.jdm {
+	background-color: #4aaaa5;
+	top: 0;
+	height: 80px;
+	position: absolute;
+	color: white;
+	margin-left: 175px;
+	clear: left;
+	padding-left: 30px;
+	padding-right: 30px;
+}
+
+.nav {
+	float: right;
+	margin-right: 175px;
+	font-size: 20px;
+	color: grey;
+	display: inline-block;
+	height: 80px;
+}
+
+.nav-group {
+	margin: 25px;
+}
+
+.portfolio {
+	border-left: 1px solid grey;
+	border-right: 1px solid grey;
+	width: 40px;
+	margin-right: 20px;
+	margin-left: 20px;
+	padding-left: 20px;
+	padding-right: 20px;
+}
+
+
+
+
+.hangman , .rpg-game , .trivia , .rutgers , .rock-paper {
+	
+	position: relative;
+}
+
+.hangman {
+	float: left;
+	margin-left: 15px;
+	margin-right: 15px;
+	margin-bottom: 15px;
+}
+
+.rpg-game {
+	float: right;
+	margin-left: 15px;
+	margin-right: 15px;
+	margin-bottom: 15px;
+}
+
+.trivia {
+	float: left;
+	margin: 15px;
+}
+
+.rutgers {
+	float: right;
+	margin: 15px;
+}
+
+.rock-paper {
+	float: left;
+	margin: 15px;
+}
+
+.image-name {
+	position: absolute;
+	width: 275px;
+	background: #4aaaa5;
+	bottom: 0;
+	height: 45px;
+	color: white;
+	text-align: center;
+	padding-top: 20px;
+}
+
+.content {
+	
+	min-height: 100%;
+	position: relative;
+}
+
+.footer {
+	bottom: 0;
+	left: 0;
+	right: 0;
+	border-top: 10px solid #4aaaa5;
+	background-color: #666666;
+	position: relative;
+	height: 50px;
+	width: 100%;
+	text-align: center;
+	color: #ccc;
+	font-size: 12px;
+	padding-top: 10px;
+	margin-top: 70px;
+
+}
+
+.push {
+	height: 50px;
+}
+
+
+.sidebar {
+	background-color: white;
+	width: 270px;
+	height: 175px;
+	position: absolute;
+	top: 0;
+	right: 0;
+	padding: 20px;
+	border: 1px solid #cccccc;
+	margin-top: 50px;
+	margin-right: 175px;
+
+	
+}
+
+.sidebar-images {
+	text-align: center;
+	padding-top: 25px;
+}
+
+.main-section {
+	
+	position: absolute;
+	width: 650px;
+	background-color: white;
+	padding: 15px;
+	border: 1px solid #cccccc;
+	margin-top: 50px;
+	margin-left: 175px;
+	margin-bottom: 50px;
+}
+
+
+
+.about-me, .portfolio-h , .contact-me {
+	color: #4aaaa5;
+	border-bottom: 2px solid #cccccc;
+	margin-bottom: 18px;
+}
+
+.about-me-content {
+	color: grey;
+	font-size: 20px;
+	line-height: 30px;
+}
+
+.contact-content {
+	color: white;
+	font-size: 20px;
+	padding: 20px;
+}
+
+.input-wrap {
+	padding-top: 3px;
+
+}
+
+.input-container {
+	margin: 15px;
+}
+
+
+
+
+.portfoliopic {
+	float: left;
+	padding-right: 15px;
+	padding-bottom: 8px;
+}
+
+.connect {
+	text-align: center;
+	color: #4aaaa5;
+	border-bottom: 1px solid #cccccc;
+}
+
+h1 , h2 , h3 , h4 {
+	font-family: 'Georgia', Times, Times New Roman, serif;
+}
+
+p , label , button {
+	font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+}
+
+a {
+	font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+	text-decoration: none;
+	color: grey;
+}
+
+input {
+	height: 30px;
+	width: 200px;
+	border-color: 1px solid #ccc;
+	width: 100%;
+	font-size: 18px;
+	overflow: scroll;
+}
+
+.message {
+	height: 200px;
+	width: 200px;
+	width: 100%;
+	font-size: 18px;
+}
+
+button {
+	margin: 15px;
+	width: 100px;
+	height: 30px;
+	font-size: 20px;
+	color: white;
+	background-color: #4aaaa5;
+	border: none;
+	outline-color: #ccc;
+	outline-width: 3px;
+
+}
+
+textarea {
+	border: 1px solid #ccc;
+	overflow: scroll;
+}
+
+label {
+	
+	color: grey;
+}
+
+body {
+	background-image: url(ep_naturalwhite.png);
+}
+
+body, html {
+	margin: 0;
+	height: 100%;
+}
